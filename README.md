@@ -92,6 +92,9 @@ The insights from the dataset indicate Elite Global AI is well-positioned in hig
 
 ![VISUAL](https://github.com/user-attachments/assets/4ef63d18-0d32-45ae-aecf-e49170f7ef1d)
 
+![image](https://github.com/user-attachments/assets/650f07c8-aaa1-4c4a-9a40-62cdc3663da9)
+
+
 ### POWER BI
 
 
