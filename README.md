@@ -3,7 +3,7 @@ An exploratory analysis of data retrieved from Elite global
 
 ## DATA SET
 
-![image](https://github.com/user-attachments/assets/348d153c-c4f6-477d-b1c2-ada1200c4b81)
+![before](https://github.com/user-attachments/assets/6c077afb-4eed-456a-b837-29f2e473b562)
 
 ## CLEANED DATA
 
