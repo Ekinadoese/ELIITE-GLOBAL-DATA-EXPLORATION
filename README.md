@@ -46,11 +46,13 @@ The exploratory analysis provided the following key insights into Elite Global A
 
 A few project types dominate the dataset, particularly "AI Optimization" and "Predictive Analytics."
 These areas might represent Elite Global AI's core strengths, but the limited diversity in projects could signal untapped market opportunities.
-Project Status Distribution:
+
+## Project Status Distribution:
 
 Most projects are either "Completed" or "In Progress," highlighting strong delivery capabilities.
 Delayed projects, while relatively fewer, need closer examination to identify bottlenecks.
-Website Traffic and Project Budget:
+
+## Website Traffic and Project Budget:
 
 Higher website traffic strongly correlates with larger project budgets. This underscores the importance of attracting high-quality traffic to the company’s website.
 
@@ -83,3 +85,13 @@ Provide additional training for teams managing these projects to improve outcome
 ## Conclusion
 
 The insights from the dataset indicate Elite Global AI is well-positioned in high-demand areas like AI Optimization and Predictive Analytics. By addressing project delays, enhancing client experience, and capitalizing on website traffic, the company can strengthen its market position and expand its client base.
+
+## Visualization
+
+### Excel
+
+![VISUAL](https://github.com/user-attachments/assets/4ef63d18-0d32-45ae-aecf-e49170f7ef1d)
+
+### POWER BI
+
+
