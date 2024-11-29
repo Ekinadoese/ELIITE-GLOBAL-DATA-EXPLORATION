@@ -9,6 +9,9 @@ An exploratory analysis of data retrieved from Elite global
 
 ![image](https://github.com/user-attachments/assets/6c21d0a1-5cd8-4db9-b4a0-dbcb9e6dbb78)
 
+![image](https://github.com/user-attachments/assets/bd5b1208-d85a-4602-bd0c-836fb35e290e)
+
+
 ## EXPLORATORY DATA ANALYSIS
 
 ## Summary of Dataset
